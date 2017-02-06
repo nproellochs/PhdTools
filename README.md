@@ -18,6 +18,6 @@ devtools::install_github("nproellochs/PhdTools")
 License
 -------
 
-**SentimentDictionaries** is released under the [MIT License](https://opensource.org/licenses/MIT)
+**PhdTools** is released under the [MIT License](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2017 Nicolas Proellochs
