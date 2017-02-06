@@ -1,0 +1,20 @@
+Package: PhdTools
+Title: Utility functions for PhD project
+Version: 0.4
+Authors@R: person("Nicolas", "Proellochs", email = "nicolas@is.uni-freiburg.de", role = c("aut", "cre"))
+Description: This packages contains a personal collection of utility functions. These should reduce the redundancy between related research projects during my PhD studies.
+Depends:
+    R (>= 3.2.0)
+Imports:
+    ggplot2,
+	tm,
+	texreg,
+	dplyr,
+	stringr
+License: MIT + file LICENSE
+LazyData: true
+Suggests:
+    testthat,
+    knitr,
+    rmarkdown
+RoxygenNote: 5.0.1
